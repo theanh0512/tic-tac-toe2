@@ -1,0 +1,13 @@
+c:\users\t_anhp\documents\visual studio 2012\Projects\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe.config
+c:\users\t_anhp\documents\visual studio 2012\Projects\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe
+c:\users\t_anhp\documents\visual studio 2012\Projects\tic tac toe\tic tac toe\bin\Debug\tic tac toe.pdb
+c:\users\t_anhp\documents\visual studio 2012\Projects\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csprojResolveAssemblyReference.cache
+c:\users\t_anhp\documents\visual studio 2012\Projects\tic tac toe\tic tac toe\obj\Debug\MainWindow.baml
+c:\users\t_anhp\documents\visual studio 2012\Projects\tic tac toe\tic tac toe\obj\Debug\MainWindow.g.cs
+c:\users\t_anhp\documents\visual studio 2012\Projects\tic tac toe\tic tac toe\obj\Debug\App.g.cs
+c:\users\t_anhp\documents\visual studio 2012\Projects\tic tac toe\tic tac toe\obj\Debug\tic tac toe_MarkupCompile.cache
+c:\users\t_anhp\documents\visual studio 2012\Projects\tic tac toe\tic tac toe\obj\Debug\tic tac toe.g.resources
+c:\users\t_anhp\documents\visual studio 2012\Projects\tic tac toe\tic tac toe\obj\Debug\tic_tac_toe.Properties.Resources.resources
+c:\users\t_anhp\documents\visual studio 2012\Projects\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.GenerateResource.Cache
+c:\users\t_anhp\documents\visual studio 2012\Projects\tic tac toe\tic tac toe\obj\Debug\tic tac toe.exe
+c:\users\t_anhp\documents\visual studio 2012\Projects\tic tac toe\tic tac toe\obj\Debug\tic tac toe.pdb
